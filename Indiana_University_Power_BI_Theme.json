@@ -1,0 +1,14 @@
+{
+"name":"Indiana University",
+"dataColors":["#990000", "#EDEBEB", "#01426A", "#006298", "#512A44", "#66435A", "#191919", "#4A3C31", "#FFFFFF", "#000000"],
+"background":"#EDEBEB",
+"visualStyles":{
+    "*": {
+        "*": {
+            "*":  [{
+                    "fontFamily": "BentonSans Regular"
+                }]
+        }
+    }
+}
+}
