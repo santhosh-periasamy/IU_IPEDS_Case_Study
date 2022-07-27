@@ -4,7 +4,7 @@ Power BI dashboard created for an IPEDS case study to compare data between India
 
 IPEDS data is publically available at: https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx
 
-The followig survey data is compared:
+The following survey data is compared:
 * Employees Assigned by Position
 * Finance
 * Institutional Characteristics
